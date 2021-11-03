@@ -1,0 +1,7 @@
+array>>>>>>.mebuat banyak data sekaligus > number string dsb,,,, ditandai dengan 
+
+ var contoh =  [.., ...  ...,  ]
+
+untuk memanggil isi gunakan juga tanda  [ ]
+
+console.log(contoh[2]);

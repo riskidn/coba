@@ -1,0 +1,1 @@
+jika tanpa perintah var let dan const maka tidak terdefinisi atau error

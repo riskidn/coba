@@ -1,0 +1,9 @@
+Var
+	tetap menampilkan variable baru walaupun tidak di satu tempat
+
+Let 
+	jika menambahkan variable baru di satu tempat, maka akan menampilkan variable baru
+
+
+Const
+	variable tidak boleh dirubah, jika ditambahkan maka akan error

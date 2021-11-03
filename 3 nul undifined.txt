@@ -1,0 +1,6 @@
+tipe data null adalah tipe data yg digunakan untuk mendifinisikan suatu hal jika hal tersebu t kosong
+
+
+tipe data null sudah kita ketahui isinya apa atau tipe datanya, namun nilainy kosong
+
+undifined tidak tau tipe datanya dan sejenisnya
